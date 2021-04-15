@@ -33,4 +33,4 @@
       When the game gets over it will ask to print the player
       Name and after printing it will show the player name.
     Now we will again go to the menu page.
- -> Thank You.!
+ -> Thank You.!..
